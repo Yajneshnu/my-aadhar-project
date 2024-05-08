@@ -1,0 +1,18 @@
+
+.aadhar-card {
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 20px;
+    text-align: left;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .card-content {
+    margin-top: 20px;
+  }
+  
+  .card-content p {
+    margin: 10px 0;
+  }
